@@ -1,8 +1,10 @@
 # 문제
-<a href="https://programmers.co.kr/learn/courses/30/lessons/77484" targer="_blank">로또의 최고 순위와 최저 순위</a>
+<a href="https://programmers.co.kr/learn/courses/30/lessons/77484" target="_blank">로또의 최고 순위와 최저 순위</a>
+
 
 
 # 핵심
+
 
 
 # 풀이 ( javascript )
@@ -22,6 +24,7 @@ function solution(lottos, win_nums) {
     return answer;
 }
 ```
+
 
 
 # 풀이 ( java )
